@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 This repository is the first one we created during the Kodluyoruz Front-End Education. It contains  README file and  index.html file.
 ## Installation
-- Project clone  [MyFirstRepo](https://www.kodluyoruz.org/)
+- Project clone  [MyFirstRepo](https://github.com/Mert-Poyraz/kodluyoruzilkrepo.git)
 > git clone  https://github.com/Mert-Poyraz/kodluyoruzilkrepo.git
 
 ## Usage
